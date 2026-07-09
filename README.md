@@ -22,7 +22,10 @@ This project analyzes the Olist Brazilian E-Commerce dataset using SQL in Google
 
 ## 📊 Dashboard Preview
 
-*(Dashboard image will be added here.)*
+![Olist Dashboard](Dashboard/dashboard.png)
+
+📂 **Power BI Dashboard (.pbix):**
+https://drive.google.com/file/d/1C5gauwY0x5pFxmnbs3YAtkIDOHIQ_SjH/view?usp=sharing 
 
 ## 📈 Key Insights
 - Total Orders: **99,441**
